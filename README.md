@@ -29,7 +29,7 @@ An AI-powered Career Assistant that analyzes resumes, compares them with job des
 
 ## 🌐 Live Demo
 
-👉 https://your-link.hf.space
+👉 [https://your-link.hf.space](https://huggingface.co/spaces/Vinitlimkar38/ai-career-assistant)
 
 ## 📌 Future Improvements
 
